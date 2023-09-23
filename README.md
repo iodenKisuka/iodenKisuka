@@ -1,11 +1,16 @@
 ### HOLA👋
-
 <!-- Comentario -->
+Soy **Daiana Lorena**, estudiante de ingeniería informática 👩‍🎓📚 en la Universidad Nacional Arturo Jauretche. Me apasiona el mundo de la programación y me considero una entusiasta de la tecnología.
 
-Me llamó **Daiana Lorena** actualmente soy estudiante de ingeniería informática en la Universidad Nacional Arturo Jauretche.
-Mi lenguaje favorito es C# fue mi segundo lenguaje porque es opensource, tipado fuerte y porque es multiplataforma: mobile con Maui antes Xamarin, back web con Asp .net y Frontend con Blazor.
+### Lenguaje Favorito: C# 🚀
+C# es mi lenguaje de programación favorito. No solo es de código abierto, sino que también es conocido por su tipado fuerte y su capacidad multiplataforma. 
+C# es mi segundo lenguaje de programación, y me enamoré de él por su naturaleza open source, su tipado fuerte y su versatilidad multiplataforma.
+Poder hacer app mobile con Maui antes Xamarin, back web con Asp .net y Frontend con Blazor.
 
-Otros lenguajes que manejo son:
-* Python mi primer lenguaje de programación en la universidad con la materia "Fundamentos de informática" con esa matería no solo aprendí a programar sino que me enamoré de la programación.
-* Java mi tercer lenguaje pero el segundo de tipado fuerte
-* Ruby el cual era muy similar a Python lo aprendí para hacer test automatizado en una capacitación que me brindo la Baufest sobre Testing.
+### Otros lenguajes que manejo son:
+* **Python** 🐍: Este fue mi primer lenguaje de programación en la universidad, gracias a la materia "Fundamentos de Informática". No solo aprendí a programar, sino que también me enamoré de la programación en ese proceso.
+
+* **Java** ☕: Mi tercer lenguaje, pero el segundo en términos de tipado fuerte. 
+* **Ruby**💎 : Aprendí Ruby en una capacitación proporcionada por Baufest para realizar pruebas automatizadas. Encontré similitudes con Python que facilitaron su adopción.
+
+Me apasiona aprender nuevos lenguajes y tecnologías para ampliar mis habilidades como desarrolladora.
