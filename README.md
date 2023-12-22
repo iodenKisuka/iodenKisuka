@@ -1,5 +1,7 @@
 ### HOLA👋
 <!-- Comentario -->
+![Uploading descarga (2).png…]()
+
 Soy **Daiana Lorena**, estudiante de ingeniería informática 👩‍🎓📚 en la Universidad Nacional Arturo Jauretche. Me apasiona el mundo de la programación y me considero una entusiasta de la tecnología.
 
 ### Lenguaje Favorito: C# 🚀
