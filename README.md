@@ -1,7 +1,6 @@
 ### HOLA👋
 <!-- Comentario -->
-![Uploading descarga (2).png…]()
-
+![Lore](https://github.com/iodenKisuka/iodenKisuka/assets/54439985/1d8fddd7-1687-44da-80f7-e0cf4001badb)
 Soy **Daiana Lorena**, estudiante de ingeniería informática 👩‍🎓📚 en la Universidad Nacional Arturo Jauretche. Me apasiona el mundo de la programación y me considero una entusiasta de la tecnología.
 
 ### Lenguaje Favorito: C# 🚀
